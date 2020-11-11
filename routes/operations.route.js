@@ -27,9 +27,9 @@ router.post(
 );
 
 router.post(
-  '/substract',
+  '/subtraction',
   valuesNumerics,
-  usersController.substract
+  usersController.subtraction
 );
 
 router.post(
